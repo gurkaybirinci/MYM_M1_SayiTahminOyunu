@@ -11,4 +11,5 @@ fun main() {
     println("Anlık Sıcaklık: " + sicaklik+ "°C")
     println("Nem Oranı: %$nem")
     println("Klima Hedef Sıcaklığı: " + hedefSicaklik + "°C")
+    // yorum
 }
